@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "nrf52840-breakout-mdbt50q-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/nrf52840-breakout-mdbt50q-eagle-import.kicad_sym")(options "")(descr ""))
+)
