@@ -1,6 +1,6 @@
 (footprint "TE_1-825433-2" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 6206AE7F)
+  (tedit 620738A7)
   (attr through_hole)
   (fp_text reference "REF**" (at -11.795 -4.309) (layer "F.SilkS")
     (effects (font (size 1.4 1.4) (thickness 0.15)))
@@ -37,8 +37,8 @@
   (pad "11" thru_hole circle (at 11.43 0) (size 1.398 1.398) (drill 0.89) (layers *.Cu *.Mask) (tstamp 563c12e4-8f8c-446c-a11f-94f5aa93b994))
   (pad "12" thru_hole circle (at 13.97 0) (size 1.398 1.398) (drill 0.89) (layers *.Cu *.Mask) (tstamp 3451168c-3c76-4628-aee4-7c231bd100c3))
   (model "C:/Users/julia/Downloads/1-825433-2/1-825433-2.step"
-    (offset (xyz 0 0 0))
+    (offset (xyz 0 0 2.9))
     (scale (xyz 1 1 1))
-    (rotate (xyz 0 180 0))
+    (rotate (xyz 0 0 0))
   )
 )
