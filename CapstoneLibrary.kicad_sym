@@ -303,4 +303,183 @@
       )
     )
   )
+  (symbol "VLMG1300-GS08" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
+    (property "Reference" "D" (id 0) (at 5.08 -4.445 0)
+      (effects (font (size 1.524 1.524)))
+    )
+    (property "Value" "VLMG1300-GS08" (id 1) (at 5.08 -7.62 0)
+      (effects (font (size 1.524 1.524)))
+    )
+    (property "Footprint" "CapstoneLibrary:VLMG1300-GS08" (id 2) (at 5.08 -9.144 0)
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "Datasheet" "" (id 3) (at 0 0 0)
+      (effects (font (size 1.524 1.524)))
+    )
+    (property "ki_fp_filters" "LED_VISHAY_VLMX1300_VIS LED_VISHAY_VLMX1300_VIS-M LED_VISHAY_VLMX1300_VIS-L" (id 4) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (symbol "VLMG1300-GS08_1_1"
+      (polyline
+        (pts
+          (xy 2.54 0)
+          (xy 3.4798 0)
+        )
+        (stroke (width 0.2032) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 3.175 0)
+          (xy 3.81 0)
+        )
+        (stroke (width 0.2032) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 3.81 -1.905)
+          (xy 6.35 0)
+        )
+        (stroke (width 0.2032) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 3.81 1.905)
+          (xy 3.81 -1.905)
+        )
+        (stroke (width 0.2032) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 5.08 3.175)
+          (xy 6.35 4.445)
+        )
+        (stroke (width 0.2032) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 6.35 -1.905)
+          (xy 6.35 1.905)
+        )
+        (stroke (width 0.2032) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 6.35 0)
+          (xy 3.81 1.905)
+        )
+        (stroke (width 0.2032) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 6.35 0)
+          (xy 7.62 0)
+        )
+        (stroke (width 0.2032) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 6.35 4.445)
+          (xy 6.985 3.81)
+        )
+        (stroke (width 0.2032) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 6.985 2.54)
+          (xy 8.255 3.81)
+        )
+        (stroke (width 0.2032) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 6.985 3.81)
+          (xy 8.255 5.08)
+        )
+        (stroke (width 0.2032) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 7.62 5.08)
+          (xy 8.255 4.445)
+        )
+        (stroke (width 0.2032) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 8.255 3.81)
+          (xy 8.89 3.175)
+        )
+        (stroke (width 0.2032) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 8.255 4.445)
+          (xy 8.255 5.08)
+        )
+        (stroke (width 0.2032) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 8.255 5.08)
+          (xy 7.62 5.08)
+        )
+        (stroke (width 0.2032) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 8.89 3.175)
+          (xy 10.16 4.445)
+        )
+        (stroke (width 0.2032) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 9.525 4.445)
+          (xy 10.16 3.81)
+        )
+        (stroke (width 0.2032) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 10.16 3.81)
+          (xy 10.16 4.445)
+        )
+        (stroke (width 0.2032) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 10.16 4.445)
+          (xy 9.525 4.445)
+        )
+        (stroke (width 0.2032) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (pin unspecified line (at 10.16 0 180) (length 2.54)
+        (name "1" (effects (font (size 1.4986 1.4986))))
+        (number "1" (effects (font (size 1.4986 1.4986))))
+      )
+      (pin unspecified line (at 0 0 0) (length 2.54)
+        (name "2" (effects (font (size 1.4986 1.4986))))
+        (number "2" (effects (font (size 1.4986 1.4986))))
+      )
+    )
+  )
 )
