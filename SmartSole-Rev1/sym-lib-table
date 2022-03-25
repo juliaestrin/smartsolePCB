@@ -1,3 +1,5 @@
 (sym_lib_table
-  (lib (name "CapstoneLibrary")(type "KiCad")(uri "C:/Users/julia/Documents/Capstone/smartsolePCB/CapstoneLibrary.kicad_sym")(options "")(descr ""))
+  (lib (name "CapstoneLibrary")(type "KiCad")(uri "C:/Users/rejoh/Desktop/homework/CAPSTONE/SmartSoleSCHRev02/smartsolePCB/CapstoneLibrary.kicad_sym")(options "")(descr ""))
+  (lib (name "testpoint_capstone")(type "KiCad")(uri "C:/Users/rejoh/Desktop/homework/CAPSTONE/SmartSoleSCHRev02/smartsolePCB/testpoint_capstone.kicad_sym")(options "")(descr ""))
+  (lib (name "MEM2067-02-180-00-A_REVB")(type "Legacy")(uri "C:/Users/rejoh/Desktop/homework/CAPSTONE/SmartSoleSCHRev02/smartsolePCB/SmartSoleSYM.kicad_sym/MEM2067-02-180-00-A_REVB.lib")(options "")(descr ""))
 )
